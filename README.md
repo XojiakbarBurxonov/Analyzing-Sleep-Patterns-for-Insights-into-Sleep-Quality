@@ -17,13 +17,3 @@ Recommendations:
 Target wellness programs at overweight and obese users to improve sleep by focusing on nutrition, exercise, and stress reduction.
 Incorporate BMI-related sleep tips in-app to educate users on improving their sleep quality through lifestyle changes.
 
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info.
